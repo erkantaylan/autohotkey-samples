@@ -1,3 +1,5 @@
+; https://poojanblog.com/blog/2008/08/autohotkey-transparency-script/
+
 #T::
 DetectHiddenWindows, on
 WinGet, curtrans, Transparent, A
